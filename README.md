@@ -10,3 +10,4 @@ O dashboard permite que o usuário explore o conjunto de dados de forma interati
 
 O aplicativo está implantado publicamente e pode ser acessado através do seguinte link:
 
+https://projeto-sprint-5-rrfk.onrender.com
